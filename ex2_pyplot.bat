@@ -1,0 +1,1 @@
+.\venv\Scripts\python.exe .\code\pyplot\ex2.py
